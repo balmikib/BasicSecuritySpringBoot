@@ -9,7 +9,7 @@ This service help us to enable authentication in other services. in case of enab
 For further reference, please consider the following sections:
 
 * [Official Gradle documentation](https://docs.gradle.org)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/2.5.4/reference/htmlsingle/#boot-features-developing-web-applications)
+* [Spring Web flux](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html)
 * [Spring Security](https://docs.spring.io/spring-boot/docs/2.5.4/reference/htmlsingle/#boot-features-security)
 
 ### Guides
