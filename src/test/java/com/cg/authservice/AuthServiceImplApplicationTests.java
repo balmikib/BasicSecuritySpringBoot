@@ -1,10 +1,10 @@
-package org.miki.ltg;
+package com.cg.authservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AutServiceApplicationTests {
+class AuthServiceImplApplicationTests {
 
 	@Test
 	void contextLoads() {
